@@ -1,0 +1,8 @@
+print('hello world')
+print('hello')
+print('hello', 'joanka')
+print(2+5)
+print('+')
+print('++')
+print('+++')
+print()
