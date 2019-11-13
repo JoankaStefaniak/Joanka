@@ -1,0 +1,4 @@
+Ha, mamy błędy! 
+could not convert string to float: ' hello'
+could not convert string to float: ' fuu'
+could not convert string to float: ' ojoj'
